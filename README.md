@@ -26,12 +26,18 @@
      - Add an emoji. 
 :cat:  
  
-:bare:  
+:bear:  
  
 :rabbit:  
  
  
 ### Tables
-     - Add a table with two headings, names and class. Populate least two rows of the table.
-     - Link each of the secondary headings to the respective checkbox items.
-    - Once you have completed all the tasks, tick the checkboxes.
+Add a table with two headings, names and class. Populate least two rows of the table.
+
+| HTML | CSS |
+|----|----|
+| 4weeks | 6weeks |
+| easy | normal |
+
+Link each of the secondary headings to the respective checkbox items.
+Once you have completed all the tasks, tick the checkboxes.
