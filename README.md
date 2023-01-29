@@ -24,6 +24,11 @@
  
 ### Emojis
      - Add an emoji. 
+:cat 
+ 
+:Bär  
+ 
+:Hase  
  
  
 ### Tables
