@@ -21,7 +21,7 @@ Add a link to the images folder.
  
 ### Images
 Add the image from the images folder. 
-https://github.com/nao-nkgw/publishing-authoring/blob/master/image/basel.jpg
+https://github.com/nao-nkgw/publishing-authoring/blob/main/images/basel.jpg
  
 ### Emojis
 Add an emoji. 
