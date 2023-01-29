@@ -16,8 +16,7 @@
  
 ### Internal Link
 Add a link to the images folder.
-[Imagefolder](https://github.com/nao-nkgw/publishing-authoring/blob/main/image)
-
+![Imagefolder](images/Basel.jpg "Basel")
  
 ### Images
 Add the image from the images folder. 
