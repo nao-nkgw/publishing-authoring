@@ -10,16 +10,16 @@
 
 
 ### External Link
- Add an external link to the github documentation. https://help.github.com/en
- 
+Add an external link to the github documentation. https://help.github.com/en
+[imagefolder](https://github.com/nao-nkgw/publishing-authoring/blob/master/image)
  
 ### Internal Link
 Add a link to the images folder.
- 
+![git-image](/image/basel.jpg)
  
 ### Images
 Add the image from the images folder. 
- 
+https://github.com/nao-nkgw/publishing-authoring/blob/master/image/basel.jpg
  
 ### Emojis
 Add an emoji. 
