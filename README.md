@@ -14,16 +14,15 @@
  
  
 ### Internal Link
-     - Add a link to the images folder.
+Add a link to the images folder.
  
  
 ### Images
-     
-     - Add the image from the images folder. 
+Add the image from the images folder. 
  
  
 ### Emojis
-     - Add an emoji. 
+Add an emoji. 
 :cat:  
  
 :bear:  
