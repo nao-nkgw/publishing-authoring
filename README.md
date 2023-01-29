@@ -10,12 +10,14 @@
 
 
 ### External Link
-Add an external link to the github documentation. https://help.github.com/en
-[imagefolder](https://github.com/nao-nkgw/publishing-authoring/blob/master/image)
+[link to the github documentation](https://help.github.com/en)
+
+
  
 ### Internal Link
 Add a link to the images folder.
-![git-image](/image/basel.jpg)
+[Imagefolder](https://github.com/nao-nkgw/publishing-authoring/blob/main/image)
+
  
 ### Images
 Add the image from the images folder. 
